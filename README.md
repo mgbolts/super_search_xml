@@ -6,7 +6,7 @@ The xml files provides a master list of which directory lists will be searched t
 
 You can enable a list and also prioritise which list to prioritse when there are multiuple matches.
 
-You can also type the name using the shortcut method to the letters. eg. just press the key that matches the letter you want once. This only works when you have picked up the phone first.
+You can also type the name using the shortcut method to the letters. eg. just press the key that matches the letter you want once. eg. for mgbolts, just type 6426587
 
 For freepbx users, add the file to /var/www/html/filename.xml
 
